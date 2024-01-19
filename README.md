@@ -5,5 +5,4 @@
   <b>ResponsePC</b>
   <br>
 </h1>
-
 <h4 align="center">GitHubの使い方が分からないので勉強中です</h4>
