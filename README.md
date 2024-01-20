@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.youtube.com/@ResponsePC"><img src="./ResponsePC_icon.png" alt="Markdownify" width="200"></a>
+  <a href="https://www.youtube.com/@ResponsePC"><img src="./image/ResponsePC_icon.png" alt="Markdownify" width="200"></a>
   <br>
   <b>ResponsePC</b>
   <br>
